@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde 2019<br>📚 Atualmente no 4 Ano do curso técnico de informática.<br>💼 Desenvolvedor Frontend na CWI.</p>
+<p align="left">✨ Criando Bugs desde 2019<br>📚 Atualmente no 4º Ano do curso técnico de informática.<br>💼 Desenvolvedor Frontend na CWI.</p>
 
 ###
 
