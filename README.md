@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde 2019<br>📚 Atualmente no 4º Ano do curso técnico de informática.<br>💼 Desenvolvedor Frontend na CWI.</p>
+<p align="left">✨Desenvolvendo Software desde 2019<br>📚Formado no curso técnico de informática e no 1º Semestre de Analise e desenvolvimento de Sistemas <br>💼 Desenvolvedor Fullstack na CWI.</p>
 
 ###
 
